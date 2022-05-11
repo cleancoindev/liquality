@@ -31,7 +31,7 @@
     "commander": "^2.19.0",
     "compression": "^1.7.3",
     "express": "^4.16.4",
-    "helmet": "^3.15.0",
+    "helmet": "^3.23.3",
     "mkdirp": "^0.5.1",
     "opn": "^5.4.0",
     "pem": "^1.13.2",
