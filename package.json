@@ -36,7 +36,7 @@
     "opn": "^5.4.0",
     "pem": "^1.13.2",
     "request": "^2.88.0",
-    "request-promise": "^4.2.2",
+    "request-promise": "^4.2.6",
     "symlink-dir": "^2.0.2",
     "tar": "^4.4.8"
   },
